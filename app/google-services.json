@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79160665703",
+    "firebase_url": "https://sutdlife-eeda3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sutdlife-eeda3",
+    "storage_bucket": "sutdlife-eeda3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79160665703:android:3f31b33504f21e4339d6c2",
+        "android_client_info": {
+          "package_name": "com.example.sutdlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79160665703-61q42dallegnn2o6oobbo19vtvv8s0g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sutdlife",
+            "certificate_hash": "949021bf858179ca86b6f8c3a7a3a06404a8537e"
+          }
+        },
+        {
+          "client_id": "79160665703-sig9s7mskbmnvdedq8e51be57sg7r9ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheMjtIJz6SFzNSDDq9kf8UgJTSRaI1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79160665703-sig9s7mskbmnvdedq8e51be57sg7r9ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
